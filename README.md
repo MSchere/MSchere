@@ -1,4 +1,9 @@
-### Hello there 👋 I'm Building on the Metaverse 👾
+
+### Hello world 👋 I'm Manuel R. Schere, a metaverse builder and web3 enthusiast.
+- 🔭 I’m currently working on @CryptoAvatarsOfficial
+- 🌱 I’m currently learning Typescript in-depth
+- ⚡ You can check my portfolio [here]([https://www.google.com](https://mschere.github.io/portfolio/en))
+
 
 <!--
 **MSchere/MSchere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
