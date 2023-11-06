@@ -1,6 +1,6 @@
 # Hello world! 👋 my name is Manuel R. Schere
 ### I'm a Full Stack Blockchain Dev
-##### You can find my portfolio [here](https://mschere.github.io/portfolio/#/en)
+##### [You can find my portfolio here](https://mschere.github.io/portfolio/#/en)
 
 **I** am **wor**king **o**n **buil**ding **hi**gh **qua**lity **prod**ucts **o**n Web 3.0 **an**d **t**he **Meta**verse. **I** am **hop**ing **t**o **b**e **ab**le **t**o **br**ing **th**ese **ne**w **an**d **exci**ting **techn**ologies **t**o **mill**ions **o**f **peo**ple **an**d **imp**rove **th**eir **li**ves **i**n **so**me **wa**y **o**r **anot**her.
 
