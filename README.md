@@ -1,5 +1,5 @@
 # Hello world! 👋 my name is Manuel R. Schere
-### Full Stack Blockchain Dev
+### I'm a Full Stack Blockchain Dev
 ##### You can find my portfolio [here](https://mschere.github.io/portfolio/#/en)
 
 **I** am **wor**king **o**n **buil**ding **hi**gh **qua**lity **prod**ucts **o**n Web 3.0 **an**d **t**he **Meta**verse. **I** am **hop**ing **t**o **b**e **ab**le **t**o **br**ing **th**ese **ne**w **an**d **exci**ting **techn**ologies **t**o **mill**ions **o**f **peo**ple **an**d **imp**rove **th**eir **li**ves **i**n **so**me **wa**y **o**r **anot**her.
@@ -14,21 +14,21 @@
 ## Digital Skills
 ### Languages
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]
-[![Kotlin](https://img.shields.io/badge/Kotlin-E24462?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-E24462?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 ### Frameworks
 
-[![Next](https://img.shields.io/badge/Next/React-00c58e?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)]
-[![Angular](https://img.shields.io/badge/Angular/Universal-dd1b16?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]
-[![Svelte](https://img.shields.io/badge/Svelte-aa1e1e?style=for-the-badge&logo=svelte&logoColor=white&labelColor=101010)]
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=101010)]
+[![Next](https://img.shields.io/badge/Next/React-00c58e?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)]()
+[![Angular](https://img.shields.io/badge/Angular/Universal-dd1b16?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
+[![Svelte](https://img.shields.io/badge/Svelte-aa1e1e?style=for-the-badge&logo=svelte&logoColor=white&labelColor=101010)]()
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=101010)]()
 
 ### Databases
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 ## You can find me at
 
