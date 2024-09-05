@@ -16,8 +16,9 @@ Cypherpunk engineer passionate about blockchain and web dev. I'm building amazin
 ### Languages
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-E24462?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Go](https://img.shields.io/badge/Go-00A3D0?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-E24462?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 
 ### Frameworks
 
