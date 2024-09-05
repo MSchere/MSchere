@@ -1,8 +1,8 @@
 # Hello world! 👋 I am Manuel R. Schere
 ### I'm a Full Stack Blockchain Dev
-##### [You can find my portfolio here](https://mschere.github.io/portfolio/#/en)
+##### [You can find my portfolio here](https://mschere.github.io/portfolio/)
 
-Cypherpunk engineer passionate about blockchain and web dev. I'm building amazing solutions that try to improve a fast changing world.
+I’m a cypherpunk computer engineer passionate about **blockchain** and **web development**.
 
 ## Studies & Experience
 
