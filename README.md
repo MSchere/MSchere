@@ -35,7 +35,7 @@ Cypherpunk engineer passionate about blockchain and web dev. I'm building amazin
 ## You can find me at
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_R._Schere_-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/manu-schere/)
-[![Twitter](https://img.shields.io/badge/Twitter-@manu_schere-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/manu_schere)
+[![X](https://img.shields.io/badge/X-@manu_schere-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://twitter.com/manu_schere)
 [![Instagram](https://img.shields.io/badge/Instagram-@manu_rdsc-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/manu_rdsc/)
 
 ## Stats
