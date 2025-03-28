@@ -1,4 +1,4 @@
-# Hello world! 👋 I am Manuel R. Schere
+# Hello world! 👋 I am Manu Schere
 ### I'm a Full Stack Blockchain Dev
 ##### [You can find my portfolio here](https://mschere.github.io/portfolio/)
 
