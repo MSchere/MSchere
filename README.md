@@ -6,7 +6,8 @@ I’m a cypherpunk computer engineer passionate about **blockchain** and **web d
 
 ## Studies & Experience
 
-- Senior Software Engineer @ <img src="https://byronlabs.io/favicon.ico" alt="Byron Labs" width="20"/> Byron Labs ➡️ Since January 2024
+- Head of Technology @ <img src="https://www.onyze.com/favicon.ico" alt="Onyze" width="20"/> Onyze ➡️ Since September 2024
+- Senior Software Engineer @ <img src="https://byronlabs.io/favicon.ico" alt="Byron Labs" width="20"/> Byron Labs ➡️ January 2024 / September 2024
 - Full-stack Blockchain Developer @ <img src="https://assets-global.website-files.com/6336af0247356dedb1080f7c/637b392269bf644a80412071_favicon.png" alt="Polygonal Mind" width="20"/> Polygonal Mind ➡️ September 2022 / January 2024
 - Master's Degree in Blokchain @ <img src="https://universidadeuropea.com/resources/static/icons/favicon.ico" alt="Universidad Europea" width="20"/> UEM ➡️ March 2022 / July 2022
 - Consultant @ <img src="https://n.world/template/public/images/favicon/favicon-32x32.png" alt="NWorld" width="20"/> NWorld ➡️ September 2021 / August 2022
@@ -18,7 +19,7 @@ I’m a cypherpunk computer engineer passionate about **blockchain** and **web d
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Go](https://img.shields.io/badge/Go-00A3D0?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-E24462?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Solidity](https://img.shields.io/badge/Solidity-2B247C?style=for-the-badge&logo=solidity&logoColor=white&labelColor=101010)]()
 
 ### Frameworks
 
@@ -29,7 +30,7 @@ I’m a cypherpunk computer engineer passionate about **blockchain** and **web d
 
 ### Databases
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Postgres](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/elastic-fed10a?style=for-the-badge&logo=elastic&logoColor=white&labelColor=101010)]()
 ## You can find me at
