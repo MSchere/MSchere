@@ -1,8 +1,8 @@
-# Hello world! 👋 I am Manu Schere
-### I'm a Full Stack Blockchain Dev
-##### [You can find my portfolio here](https://mschere.dev)
+# Hello world! 👋 I'm Manu Schere
+### I work as a Full Stack Blockchain Dev
+##### [Visit my website!](https://mschere.dev)
 
-I’m a cypherpunk computer engineer passionate about **blockchain** and **web development**.
+I’m a cypherpunk computer engineer passionate about **blockchain** and **web dev**.
 
 ## Studies & Experience
 
@@ -10,7 +10,7 @@ I’m a cypherpunk computer engineer passionate about **blockchain** and **web d
 - Senior Software Engineer @ <img src="https://byronlabs.io/images/favicon.ico" alt="Byron Labs" width="20"/> Byron Labs ➡️ January 2024 / September 2024
 - Full-stack Blockchain Developer @ <img src="https://assets-global.website-files.com/6336af0247356dedb1080f7c/637b392269bf644a80412071_favicon.png" alt="Polygonal Mind" width="20"/> Polygonal Mind ➡️ September 2022 / January 2024
 - Master's Degree in Blokchain @ <img src="https://universidadeuropea.com/resources/static/icons/favicon.ico" alt="Universidad Europea" width="20"/> UEM ➡️ March 2022 / July 2022
-- Consultant @ <img src="https://n.world/template/public/images/favicon/favicon-32x32.png" alt="NWorld" width="20"/> NWorld ➡️ September 2021 / August 2022
+- Consultant @ <img src="https://n.world/favicon.ico" alt="NWorld" width="20"/> NWorld ➡️ September 2021 / August 2022
 - Degree in Computer Engineering @ <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Universidad_de_Alcal%C3%A1%2C_escudo.jpg" alt="Universidad de Alcalá" width="20"/> UAH ➡️ September 2017 / September 2021
 ## Digital Skills
 ### Languages
@@ -36,7 +36,6 @@ I’m a cypherpunk computer engineer passionate about **blockchain** and **web d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manu_Schere-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/manu-schere)
 [![X](https://img.shields.io/badge/X-@manu_schere-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://twitter.com/manu_schere)
-[![Instagram](https://img.shields.io/badge/Instagram-@manu_rdsc-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/manu.schere)
 
 ## Stats
 [![MSchere's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MSchere&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)]()
